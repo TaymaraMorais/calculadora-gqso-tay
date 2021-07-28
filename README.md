@@ -5,6 +5,7 @@ Este projeto foi solicitado pelo professor Daniel Fireman da disciplina de GQSO 
 * Cliente e servidor voltados para solicitação das operações básicas;
 * Métodos que permitirão calcular somas e subtrações;
 * Tratamento de exceções para corrigir eventuais erros e promover um sistema estável.
+* Interface visualmente focada em ser prática
 
 ## 🚀 Status: Desenvolvimento
 
@@ -13,23 +14,25 @@ O projeto encontra-se em sua fase de desenvolvimento referente ao planejamento d
 ### 📋 Pré-requisitos
 
 Para implementar o projeto em sua plenitude são necessários:
-- Github (controle de versão) 
+- Github (controle de versão)
 - IDE de desenvolvimento apropriada
-- Conhecimento em linguagem de programação
+- Conhecimento em linguagem de programação (Java, Javascript, PHP etc)
 
 ### 🔧 Recursos
 
 Alguns recursos esperados para o sistema após ele ser concluído:
-- [x] Interface de usuário responsiva e minimalista;
-- [x] Execução de operações matemáticas básicas (soma e subtração);
-- [x] Botão de deletar que apaga o último caracter digitado;
-- [x] Controle de quantidade de dígitos digitados para evitar estouro de memória das variáveis;
-- [x] Botão de apagar tudo exibido na tela.
+- [] Interface de usuário responsiva e minimalista;
+- [] Execução de operações matemáticas básicas (soma e subtração);
+- [] Botão de deletar que apaga o último caracter digitado;
+- [] Controle de quantidade de dígitos digitados para evitar estouro de memória das variáveis;
+- [] Botão de apagar tudo exibido na tela;
+- [] Histórico de operações.
 
 ## 📦 Desenvolvimento
 
 - Criação da estrutura do projeto através do Github.
-
+- Datação das tarefas e métodos do projeto.
+- 
 ## 🛠️ Construído com
 
 Ferramentas que serão utilizadas:
@@ -37,6 +40,7 @@ Ferramentas que serão utilizadas:
 * [Github](https://desktop.github.com) - Github Desktop
 * [Gitpod](https://www.gitpod.io) - Gitpod
 * [VS Code](https://code.visualstudio.com/download) - Visual Studio Code
+* [Workbench](https://www.mysql.com/products/workbench/) - MySQL Workbench
 
 ## 📌 Versão
 
