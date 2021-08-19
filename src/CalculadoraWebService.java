@@ -13,7 +13,7 @@ import javax.jws.WebService;
 @WebService(
     endpointInterface = "com.calculadoraapi.Calculadora",
     name = "Calculadora",
-    serviceName = "CalculatodoraWebService",
+    serviceName = "CalculadoraWebService",
     portName = "CalcudoraPorta")
 
 public class CalculadoraWebService {
