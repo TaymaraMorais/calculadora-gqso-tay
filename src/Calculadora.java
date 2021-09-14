@@ -13,7 +13,13 @@ public class Calculadora {
     private double resultado = 0;
     
     public double soma(double valor1, double valor2){
-        this.resultado = valor1 + valor2;
-        return this.resultado;
+        try{
+                this.resultado = valor1 + valor2;
+                return this.resultado;
+            } catch(NumberException nfe){
+                System.err.println("Número inválido!");
+
+            }
+        
     }
 }
