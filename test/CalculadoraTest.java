@@ -14,7 +14,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Cadu
+ * @author Taymara
  */
 public class CalculadoraTest {
     
